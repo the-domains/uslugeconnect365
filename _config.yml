@@ -30,6 +30,9 @@ navigation:
   - name: Usluge
     url: 'http://usluge.connect365.online/'
     type: external
+  - name: Portfolio
+    url: 'http://portfolio.connect365.online/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd0b97ee-9c86-4d4e-9e94-5343fee610c4.png
 title: Ovo su naše usluge
