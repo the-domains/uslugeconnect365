@@ -5,8 +5,8 @@ description: >-
   jeste li razmišljali o odgovornosti za izradu npr. jedne skupe monografije. Mi
   za sve poslove odgovaramo i vodimo računa o procedurama kako bi svaki posao
   prošao bez problema.
-dateModified: '2017-03-10T14:20:17.746Z'
-datePublished: '2017-03-10T14:20:18.627Z'
+dateModified: '2017-03-10T14:33:19.001Z'
+datePublished: '2017-03-10T14:33:19.236Z'
 title: 'Grafički Dizajn Monografija, Knjiga, Kaloga…'
 author: []
 publisher: {}
