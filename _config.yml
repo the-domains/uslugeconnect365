@@ -1,9 +1,10 @@
-typography_spectrum: 0.4786126301623881
+layout_spectrum: 0.8090880124958805
+typography_spectrum: 0.542578194147105
 color:
-  brandStrength: 0.31098323385231197
-  lightness: 0.9950805131811649
-  saturation: 0.22309544566087425
-  rhythmicContrast: 0.46920398413203657
+  brandStrength: 0.009462806008903696
+  lightness: 0.8737170453158456
+  saturation: 0.9248765670577305
+  rhythmicContrast: 0.4303300568222594
   brandColors:
     - '#468966'
     - '#FFF0A5'
@@ -11,7 +12,6 @@ color:
     - '#B64926'
     - '#8E2800'
 github: true
-layout_spectrum: 0.08565982384607196
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d72413-db66-4608-86e3-eaa38fd5dc4c.png
 name: Agencija Connect Usluge
