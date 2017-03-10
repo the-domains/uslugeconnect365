@@ -6,8 +6,8 @@ description: >-
   pomoć možete graditi vrijednost branda kako bi klijenti imali dobru percepciju
   o vama. Brendirati znači biti prepoznatljiv po mnogo stvari. Dizajn logotipa i
   ambalaže su samo početak brendiranja.
-dateModified: '2017-03-10T13:20:41.352Z'
-datePublished: '2017-03-10T13:20:41.917Z'
+dateModified: '2017-03-10T14:51:31.412Z'
+datePublished: '2017-03-10T14:51:32.152Z'
 title: Brendiranje Prozvoda i Usluga
 author: []
 publisher: {}
