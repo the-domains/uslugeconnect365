@@ -5,8 +5,8 @@ description: >-
   je donijeti strategiju što ćemo raditi i kako. Što ćemo mjeriti i kako ćemo
   znati koja nam je kampanja uspješna a koja nije. Gdje i kako trošiti proračun
   za kampanju.
-dateModified: '2017-03-10T13:44:33.711Z'
-datePublished: '2017-03-10T13:44:35.445Z'
+dateModified: '2017-03-10T14:33:19.001Z'
+datePublished: '2017-03-10T14:33:19.261Z'
 title: Oglašavanje na Društvenim Mrežama
 author: []
 publisher: {}
