@@ -4,8 +4,8 @@ description: >-
   Dvadeset godina iskustva s raznim kijentima i poslovima. Bilo je dobrih i
   loših iskustava kao i u svakom poslu. Zato iskoristite naše znanje jer smo
   uvijek otvoreni podjeliti ga s vama.
-dateModified: '2017-03-10T14:51:31.412Z'
-datePublished: '2017-03-10T14:51:32.162Z'
+dateModified: '2017-03-10T15:51:03.304Z'
+datePublished: '2017-03-10T15:51:04.794Z'
 title: Obuka i Savjetovanje
 author: []
 publisher: {}
@@ -23,3 +23,6 @@ _type: Blurb
 ## Naše znanje i iskustvo je uvijek vama na raspolaganju
 
 Dvadeset godina iskustva s raznim kijentima i poslovima. Bilo je dobrih i loših iskustava kao i u svakom poslu. Zato iskoristite naše znanje jer smo uvijek otvoreni podjeliti ga s vama.
+[Pitajte nas][0]
+
+[0]: https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
