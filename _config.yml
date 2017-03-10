@@ -14,7 +14,7 @@ github: true
 layout_spectrum: 0.08565982384607196
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d72413-db66-4608-86e3-eaa38fd5dc4c.png
-name: Connect.usluge
+name: Agencija Connect Usluge
 url: 'https://usluge.connect365.online'
 colors:
   brandColors:
@@ -26,9 +26,6 @@ colors:
 navigation:
   - name: Home
     url: 'http://connect365.online/'
-    type: external
-  - name: Usluge
-    url: 'http://usluge.connect365.online/'
     type: external
   - name: Portfolio
     url: 'http://portfolio.connect365.online/'
