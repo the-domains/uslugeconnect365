@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Ostavite dobar prvi dojam kada vas pronađu na Internetu.
-dateModified: '2017-03-10T13:38:37.355Z'
-datePublished: '2017-03-10T13:38:38.647Z'
+dateModified: '2017-03-10T13:38:28.708Z'
+datePublished: '2017-03-10T13:38:29.674Z'
 title: Dizajn i Izrada Web Stranica
 author: []
 publisher: {}
 via: {}
-sourcePath: _posts/2017-03-10-dizajn-i-izrada-web-stranica.md
 starred: false
 datePublishedOriginal: '2017-03-10T13:38:29.674Z'
+sourcePath: _posts/2017-03-10-dizajn-i-izrada-web-stranica.md
 _type: Blurb
 
 ---
