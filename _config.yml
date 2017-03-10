@@ -1,21 +1,16 @@
-layout_spectrum: 0.8090880124958805
-typography_spectrum: 0.542578194147105
-color:
-  brandStrength: 0.009462806008903696
-  lightness: 0.8737170453158456
-  saturation: 0.9248765670577305
-  rhythmicContrast: 0.4303300568222594
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d72413-db66-4608-86e3-eaa38fd5dc4c.png
 name: Agencija Connect Usluge
-url: 'https://usluge.connect365.online'
+analytics:
+  google: UA-19682937-18
+purpose:
+  - type: contact
+    url: 'tel:+38763313588'
+    label: Pozovi +38763313588
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatraži ponudu
+github: true
+description: 'Grafički i Web dizajn, Internet oglašavanje'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -23,25 +18,19 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Home
-    url: 'http://connect365.online/'
-    type: external
-  - name: Portfolio
-    url: 'http://portfolio.connect365.online/'
-    type: external
-  - name: Blog
-    url: 'http://blog.connect365.online/'
-    type: external
-  - name: Kontakt
-    url: 'http://connect365.online/o-nama'
-    type: external
-  - name: Zanimljivosti
-    url: 'http://zanimljivosti.connect365.online/'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd0b97ee-9c86-4d4e-9e94-5343fee610c4.png
-title: Ovo su naše usluge
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -52,16 +41,57 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      app_links:
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: ios
+        - package: com.google.android.youtube
+          app_name: YouTube
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: android
+        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: web
+          namespace: ai
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: ipad
+          name: YouTube
+        - id: '544007664'
+          namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
+          type: iphone
+          name: YouTube
+        - id: com.google.android.youtube
+          namespace: twitter
+          url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU'
+          type: googleplay
+          name: YouTube
+        - path: http/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=Ovj3gZ-DwcU
+          package: '544007664'
+          namespace: google
+          type: ios
+      datePublished: null
       author:
         - name: CONNECT/Tržišne komunikacije
           url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
           avatar: {}
-      related: []
+      inLanguage: en
+      '@type': VideoObject
       publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
         url: 'https://www.youtube.com/'
         name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
         domain: youtu.be
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
       keywords:
         - naslovna
         - strana
@@ -73,59 +103,47 @@ content:
         - svet
         - mori
         - rouzin
-      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
-      inLanguage: en
-      '@type': VideoObject
-      app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
-          type: ios
-          namespace: ai
-          app_store_id: '544007664'
-          app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
-          type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
-        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
-          type: web
-          namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
-          namespace: twitter
-          type: ipad
-          name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
-          namespace: twitter
-          type: iphone
-          name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=Ovj3gZ-DwcU'
-          namespace: twitter
-          type: googleplay
-          name: YouTube
-          id: com.google.android.youtube
-        - path: http/www.youtube.com/watch?v=Ovj3gZ-DwcU
-          package: com.google.android.youtube
-          namespace: google
-          type: android
-        - path: vnd.youtube/www.youtube.com/watch?v=Ovj3gZ-DwcU
-          package: '544007664'
-          namespace: google
-          type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
       title: Naslovna
-      datePublished: null
+      '@context': 'http://schema.org'
+      related: []
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Grafički i Web dizajn, Internet oglašavanje'
-purpose:
-  - type: contact
-    url: 'tel:+38763313588'
-    label: Pozovi +38763313588
+navigation:
   - type: external
-    url: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
-    label: Zatraži ponudu
+    name: Home
+    url: 'http://connect365.online/'
+  - type: external
+    name: Portfolio
+    url: 'http://portfolio.connect365.online/'
+  - type: external
+    name: Blog
+    url: 'http://blog.connect365.online/'
+  - type: external
+    name: Kontakt
+    url: 'http://connect365.online/o-nama'
+  - type: external
+    name: Zanimljivosti
+    url: 'http://zanimljivosti.connect365.online/'
+layout_spectrum: 0.8090880124958805
+color:
+  lightness: 0.8737170453158456
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  saturation: 0.9248765670577305
+  brandStrength: 0.009462806008903696
+  rhythmicContrast: 0.4303300568222594
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd0b97ee-9c86-4d4e-9e94-5343fee610c4.png
+content_rating:
+  adult: false
+typography_spectrum: 0.542578194147105
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d72413-db66-4608-86e3-eaa38fd5dc4c.png
+title: Ovo su naše usluge
+url: 'https://usluge.connect365.online'
