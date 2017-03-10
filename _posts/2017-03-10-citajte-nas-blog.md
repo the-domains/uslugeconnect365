@@ -4,8 +4,8 @@ description: >-
   Umjesto da čitate dosadne i prepisane tekstove, predlažemo vam da pročitate
   tekstove koje smo napisali iz našeg iskustva i odgovorili na pitanja koja
   najviše zanimaju naše klijente. 
-dateModified: '2017-03-10T14:33:19.001Z'
-datePublished: '2017-03-10T14:33:19.229Z'
+dateModified: '2017-03-10T14:51:31.412Z'
+datePublished: '2017-03-10T14:51:32.189Z'
 title: Čitajte Naš Blog
 author: []
 publisher: {}
