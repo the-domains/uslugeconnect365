@@ -72,3 +72,7 @@ purpose:
   - type: contact
     url: 'tel:+38763313588'
     label: Pozovi
+  - type: external
+    url: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
+    label: Zatraži ponudu
