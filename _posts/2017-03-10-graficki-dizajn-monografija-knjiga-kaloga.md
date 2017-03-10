@@ -5,18 +5,20 @@ description: >-
   jeste li razmišljali o odgovornosti za izradu npr. jedne skupe monografije. Mi
   za sve poslove odgovaramo i vodimo računa o procedurama kako bi svaki posao
   prošao bez problema.
-dateModified: '2017-03-10T14:13:08.206Z'
-datePublished: '2017-03-10T14:13:08.929Z'
+dateModified: '2017-03-10T14:20:17.746Z'
+datePublished: '2017-03-10T14:20:18.627Z'
 title: 'Grafički Dizajn Monografija, Knjiga, Kaloga…'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-10-graficki-dizajn-monografija-knjiga-kaloga.md
 starred: false
 datePublishedOriginal: '2017-03-10T14:13:08.929Z'
-sourcePath: _posts/2017-03-10-graficki-dizajn-monografija-knjiga-kaloga.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac50c150-07a3-4926-8608-9bf4324cdceb.jpg)
+
 # Grafički Dizajn Monografija, Knjiga, Kaloga...
 
 ## Uvijek izaberite profesionalce jer su oni najjeftiniji u konačnici
