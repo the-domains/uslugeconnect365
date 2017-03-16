@@ -110,21 +110,18 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 navigation:
-  - type: external
-    name: Home
+  - name: Home
     url: 'http://connect365.online/'
-  - type: external
-    name: Portfolio
-    url: 'http://portfolio.connect365.online/'
-  - type: external
-    name: Blog
+    type: external
+  - name: Blog
     url: 'http://blog.connect365.online/'
-  - type: external
-    name: Kontakt
+    type: external
+  - name: Kontakt
     url: 'http://connect365.online/o-nama'
-  - type: external
-    name: Zanimljivosti
+    type: external
+  - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
+    type: external
 layout_spectrum: 0.8090880124958805
 color:
   lightness: 0.8737170453158456
