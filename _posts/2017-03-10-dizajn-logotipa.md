@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Nije lako dizajnirati i odabrati logotip koji će vas predstavljati slijedećih
   100 godina :). Kako vrijednost vaše firme preslikati na jedan simbol, koji će
-  o vama reći mnogo toga. Dizajnirat
-dateModified: '2017-03-10T14:57:57.119Z'
-datePublished: '2017-03-10T14:57:57.883Z'
+  o vama reći mnogo toga. 
+dateModified: '2017-03-16T12:44:24.788Z'
+datePublished: '2017-03-16T12:44:25.382Z'
 title: Dizajn logotipa
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-03-10-dizajn-logotipa.md
 starred: false
 datePublishedOriginal: '2017-03-10T14:57:57.883Z'
-sourcePath: _posts/2017-03-10-dizajn-logotipa.md
 _type: Blurb
 
 ---
@@ -22,4 +22,4 @@ _type: Blurb
 
 ## Dizajnirati logo je puno više od samoga grafičkog dizajna
 
-Nije lako dizajnirati i odabrati logotip koji će vas predstavljati slijedećih 100 godina :). Kako vrijednost vaše firme preslikati na jedan simbol, koji će o vama reći mnogo toga. Dizajnirat
+Nije lako dizajnirati i odabrati logotip koji će vas predstavljati slijedećih 100 godina :). Kako vrijednost vaše firme preslikati na jedan simbol, koji će o vama reći mnogo toga.
