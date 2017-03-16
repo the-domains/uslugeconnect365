@@ -4,9 +4,9 @@ description: >-
   Već odavno ne znate što vam je logotip. Imate bezbroj verzija i svaki je
   različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih
   sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi
-  Grafičkih Standarda. 
-dateModified: '2017-03-10T14:51:31.412Z'
-datePublished: '2017-03-10T14:51:32.162Z'
+  Grafičkih Standarda.
+dateModified: '2017-03-16T09:23:53.219Z'
+datePublished: '2017-03-16T09:23:53.808Z'
 title: Dizajn Knjige Grafičkih Standarda
 author: []
 publisher: {}
@@ -24,3 +24,6 @@ _type: Blurb
 ## Postavite nova pravila poslovanja
 
 Već odavno ne znate što vam je logotip. Imate bezbroj verzija i svaki je različit. Vizitke vam dizajniraju kako tko stigne a vaši djelatnici imaju ih sve različite. Vrijeme je da to sve standardizirate i definirate u Knjizi Grafičkih Standarda.
+[Pošalji upit][0]
+
+[0]: https://docs.google.com/forms/d/e/1FAIpQLScdOVsi3x4G0Lhj3_OM6jahpukJaGd1BQo7SdDcZ_cg58LITg/viewform
