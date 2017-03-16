@@ -33,11 +33,11 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: Blog
-    url: 'http://blog.connect365.online/'
-    type: external
   - name: Reference
     url: 'http://connect365.online/ovo-su-nase-reference'
+    type: external
+  - name: Blog
+    url: 'http://blog.connect365.online/'
     type: external
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
